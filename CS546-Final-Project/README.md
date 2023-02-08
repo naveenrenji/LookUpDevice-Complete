@@ -4,8 +4,8 @@ CS546 Final web project
 
  
 Review Products
-Name: LookUpDevice
-Group Members: Sagar Chakravarthy Mathada Veera, Murad Aleskerov, Manudeep Reddy Manudeep Reddy, Naveen Mathews Renji 
+Name: ProductProdigy
+Group Members:  Naveen Mathews Renji, Sagar Chakravarthy Mathada Veera, Murad Aleskerov, Manudeep Reddy Manudeep Reddy
 Short description:
 The purpose of the website is to help the buyer find the right product and get acquainted with its characteristics.
 Ideas:
